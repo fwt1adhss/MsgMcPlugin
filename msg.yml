@@ -1,1 +1,5 @@
-
+MESSAGES:
+  CORRECTUSAGE-MSG: '&cCorrect Usage: /msg <player> <msg>'
+  CORRECTUSAGE-REPLY: '&cCorrect Usage: /reply <msg>'
+  PLAYER-NOT-ONLINE: '&c<PLAYER> is not online!'
+  NO-MESSAGE-TO-REPLY-TO: '&cYou don't have a message to reply to.'
